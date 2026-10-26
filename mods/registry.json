@@ -653,7 +653,8 @@
 		},
 		{
 			"name": "commandcode-usage-tracker",
-			"source": "gnahiak2/commandcode-usage-tracker",
+			"source": "commandcode-usage-tracker",
+			"npm": "commandcode-usage-tracker",
 			"description": "A live 5-hour, weekly and monthly usage line above the input box, with reset countdowns and a stale marker when the billing API cannot be reached.",
 			"author": {
 				"name": "Kaihang",
