@@ -650,6 +650,26 @@
 				"workflow"
 			],
 			"addedAt": "2026-10-23"
+		},
+		{
+			"name": "commandcode-usage-tracker",
+			"source": "gnahiak2/commandcode-usage-tracker",
+			"description": "A live 5-hour, weekly and monthly usage line above the input box, with reset countdowns and a stale marker when the billing API cannot be reached.",
+			"author": {
+				"name": "Kaihang",
+				"github": "gnahiak2"
+			},
+			"repo": "https://github.com/gnahiak2/commandcode-usage-tracker",
+			"kinds": [
+				"renderer"
+			],
+			"tags": [
+				"usage",
+				"billing",
+				"limits",
+				"widget"
+			],
+			"addedAt": "2026-10-26"
 		}
 	]
 }
